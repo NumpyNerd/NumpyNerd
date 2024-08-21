@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @NumpyNerd
+- 👋 Hi, I’m Nurul Syuhada 
 - An Aspired and Passionate Data Science Analytics always looking for new and exciting projects to work on.
-- 🔭 I’m currently working on:
-- [Project 1]: Predictive Model to determine car price
-- [Project 2]: Predictive model to determine the produce of CO2 Emissions
-- [Project 3]: Linear and Non Linear Comparative Model
 - 👀 I’m interested in: Economics, Business and Finance Industry
 - 🌱 I’m currently learning:
 - Python
