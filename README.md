@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nurul Syuhada 
+- 👋 Hi, I’m @NumpyNerd
 - An Aspired and Passionate Data Science Analytics always looking for new and exciting projects to work on.
 - 👀 I’m interested in: Economics, Business and Finance Industry
 - 🌱 I’m currently learning:
