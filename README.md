@@ -11,7 +11,7 @@
 Open source projects related to Economics, Business and Finance and 
 Innovative ideas that need a passionate data science analytics. 
 - 📫 Feel free to reach out to me via:
-[LinkedIn](www.linkedin.com/in/nurul-syuhada-wahiuddin)
-[email](nerdnumpy@gmail.com).
+[LinkedIn] - www.linkedin.com/in/nurul-syuhada-wahiuddin
+[email] - nerdnumpy@gmail.com
 - ⚡ Fun fact: When I'm not coding, you can find me formulating pattern to crochet more things!
 
